@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "uon": "file:../../uon",
     "vue": "^3.4.29"
   },
   "devDependencies": {

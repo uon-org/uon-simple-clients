@@ -9,6 +9,5 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "uon": "file:../uon"
   }
 }
